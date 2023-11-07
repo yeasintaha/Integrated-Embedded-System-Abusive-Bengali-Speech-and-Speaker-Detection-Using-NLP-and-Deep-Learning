@@ -14,12 +14,12 @@ The system uses a combination of NLP and deep learning techniques to achieve hig
 
 **If you find this project useful, please cite it as follows:**
 
-@inproceedings{ramadan2022integrated,
-  title={An Integrated Embedded System Towards Abusive Bengali Speech and Speaker Detection Using NLP and Deep Learning},
-  author={Ramadan, Syed Taha Yeasin and Sakib, Tanjim and Rahat, Md Ahsan and Hossain, Md Mushfique and Rahman, Raiyan and Rahman, Md Mahbubur},
-  booktitle={2022 25th International Conference on Computer and Information Technology (ICCIT)},
-  pages={698--703},
-  year={2022},
-  organization={IEEE}
-}
-
+@inproceedings{ramadan2022integrated, <br/>
+  title={An Integrated Embedded System Towards Abusive Bengali Speech and Speaker Detection Using NLP and Deep Learning},  <br/>
+  author={Ramadan, Syed Taha Yeasin and Sakib, Tanjim and Rahat, Md Ahsan and Hossain, Md Mushfique and Rahman, Raiyan and Rahman, Md Mahbubur},  <br/>
+  booktitle={2022 25th International Conference on Computer and Information Technology (ICCIT)},  <br/>
+  pages={698--703},  <br/>
+  year={2022},  <br/>
+  organization={IEEE} <br/>
+} <br/>
+ <br/>
