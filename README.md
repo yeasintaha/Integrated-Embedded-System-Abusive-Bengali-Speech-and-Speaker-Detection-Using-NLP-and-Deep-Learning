@@ -2,7 +2,7 @@
 
 This research work aims to develop a system for detecting abusive speech and identifying the speaker in Bangla. The system is trained on a dataset of Bangla abusive speech and speaker identification data, which has been collected from the following links:
 
-**Bangla Abusive Dataset: **
+**Bangla Abusive Dataset:**
   - https://github.com/aimansnigdha/Bangla-Abusive-Comment-Dataset <br/>
   - https://www.kaggle.com/datasets/naurosromim/bengali-hate-speech-dataset <br/>
   - https://github.com/rezacsedu/Bengali-Hate-Speech-Dataset <br/>
