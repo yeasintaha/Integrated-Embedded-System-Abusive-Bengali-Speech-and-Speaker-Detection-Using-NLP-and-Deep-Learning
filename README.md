@@ -1,4 +1,4 @@
-# Bangla Abusive Speech Detection and Speaker Identification
+# Integrated Embedded System Abusive Bengali Speech and Speaker Detection Using NLP and Deep-Learning
 
 This research work aims to develop a system for detecting abusive speech and identifying the speaker in Bangla. The system is trained on a dataset of Bangla abusive speech and speaker identification data, which has been collected from the following links:
 
