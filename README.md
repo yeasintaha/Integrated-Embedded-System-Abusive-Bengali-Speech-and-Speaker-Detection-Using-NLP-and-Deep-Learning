@@ -1,25 +1,33 @@
-# Integrated Embedded System Abusive Bengali Speech and Speaker Detection Using NLP and Deep-Learning
+# Integrated Embedded System Abusive Bengali Speech and Speaker Detection Using NLP and Deep Learning
 
-This research work aims to develop a system for detecting abusive speech and identifying the speaker in Bangla. The system is trained on a dataset of Bangla abusive speech and speaker identification data, which has been collected from the following links:
+This repository contains the code and resources for a system aimed at detecting abusive speech and identifying the speaker in Bangla. The system leverages a combination of Natural Language Processing (NLP) and deep learning techniques to achieve high accuracy in both tasks.
 
-**Bangla Abusive Dataset:**
-  - https://github.com/aimansnigdha/Bangla-Abusive-Comment-Dataset <br/>
-  - https://www.kaggle.com/datasets/naurosromim/bengali-hate-speech-dataset <br/>
-  - https://github.com/rezacsedu/Bengali-Hate-Speech-Dataset <br/>
+## Dataset Sources:
 
-**Speaker Identification Dataset:** 
-  - https://drive.google.com/drive/folders/1TNcp6t7_ZJ1E3TDhqZTW_DKhrkXMHbs1
+### Bangla Abusive Dataset:
+- [Bangla Abusive Comment Dataset](https://github.com/aimansnigdha/Bangla-Abusive-Comment-Dataset)
+- [Bengali Hate Speech Dataset on Kaggle](https://www.kaggle.com/datasets/naurosromim/bengali-hate-speech-dataset)
+- [Bengali Hate Speech Dataset](https://github.com/rezacsedu/Bengali-Hate-Speech-Dataset)
 
-The system uses a combination of NLP and deep learning techniques to achieve high accuracy in both abusive speech detection and speaker identification. The NLP techniques are used to extract features from the Bangla text, such as the presence of abusive words and phrases, and the syntactic structure of the sentences. The deep learning techniques are used to train a model that can predict whether a given text is abusive and identify the speaker.
+### Speaker Identification Dataset:
+- [Speaker Identification Dataset](https://drive.google.com/drive/folders/1TNcp6t7_ZJ1E3TDhqZTW_DKhrkXMHbs1)
+
+The system uses a combination of NLP and deep learning techniques to extract features from Bangla text and train models for abusive speech detection and speaker identification.
+
+
+## Citation 
 
 **If you find this project useful, please cite it as follows:**
-
-@inproceedings{ramadan2022integrated, <br/>
-&nbsp;&nbsp;  title={An Integrated Embedded System Towards Abusive Bengali Speech and Speaker Detection Using NLP and Deep Learning},  <br/>
-&nbsp;&nbsp;  author={Ramadan, Syed Taha Yeasin and Sakib, Tanjim and Rahat, Md Ahsan and Hossain, Md Mushfique and Rahman, Raiyan and Rahman, Md Mahbubur},<br/>
-&nbsp;&nbsp;  booktitle={2022 25th International Conference on Computer and Information Technology (ICCIT)},  <br/>
-&nbsp;&nbsp;  pages={698--703},  <br/>
-&nbsp;&nbsp;  year={2022},  <br/>
-&nbsp;&nbsp;  organization={IEEE} <br/>
-} <br/>
- <br/>
+```bash 
+@INPROCEEDINGS{10054785,
+  author={Yeasin Ramadan, Syed Taha and Sakib, Tanjim and Rahat, Md. Ahsan and Mushfique Hossain, Md. and Rahman, Raiyan and Rahman, Md. Mahbubur},
+  booktitle={2022 25th International Conference on Computer and Information Technology (ICCIT)}, 
+  title={An Integrated Embedded System Towards Abusive Bengali Speech and Speaker Detection Using NLP and Deep Learning}, 
+  year={2022},
+  volume={},
+  number={},
+  pages={698-703},
+  keywords={Deep learning;Pediatrics;Embedded systems;Computational modeling;Bit error rate;Employment;Feature extraction;BERT;Bi-LSTM;Deep Learning;GRU;LSTM;MFCC;Natural Language Processing;Speech Detection;Voice Recognition},
+  doi={10.1109/ICCIT57492.2022.10054785}
+}
+```
