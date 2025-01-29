@@ -21,8 +21,6 @@ _The following GIF shows a demonstration of the system in action:_
 <br />
 ![integrated_speech_text](https://github.com/user-attachments/assets/bc33f706-7164-434b-b53b-0cd54094a669)
 
-<br/> 
-<br/>
 
 ## Citation 
 
