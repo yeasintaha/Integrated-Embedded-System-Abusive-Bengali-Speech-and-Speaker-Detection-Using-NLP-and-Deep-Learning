@@ -1,4 +1,4 @@
-# Integrated Embedded System Abusive Bengali Speech and Speaker Detection Using NLP and Deep Learning
+![integrated_speech_text](https://github.com/user-attachments/assets/d1619943-d1e4-4e16-9a54-3c158e845d68)# Integrated Embedded System Abusive Bengali Speech and Speaker Detection Using NLP and Deep Learning
 
 This repository contains the code and resources for a system aimed at detecting abusive speech and identifying the speaker in Bangla. The system leverages a combination of Natural Language Processing (NLP) and deep learning techniques to achieve high accuracy in both tasks.
 
@@ -14,6 +14,15 @@ This repository contains the code and resources for a system aimed at detecting 
 
 The system uses a combination of NLP and deep learning techniques to extract features from Bangla text and train models for abusive speech detection and speaker identification.
 
+**Demonstration**
+<br />
+_The following GIF shows a demonstration of the system in action:_
+<br /> 
+<br />
+![integrated_speech_text](https://github.com/user-attachments/assets/bc33f706-7164-434b-b53b-0cd54094a669)
+
+<br/> 
+<br/>
 
 ## Citation 
 
